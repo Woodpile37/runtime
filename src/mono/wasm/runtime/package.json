@@ -21,7 +21,7 @@
   "author": "Microsoft",
   "license": "MIT",
   "devDependencies": {
-    "@rollup/plugin-typescript": "9.0.2",
+    "@rollup/plugin-typescript": "11.0.0",
     "@rollup/plugin-virtual": "3.0.1",
     "@rollup/plugin-terser": "0.4.0",
     "@typescript-eslint/eslint-plugin": "5.44.0",
